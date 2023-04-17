@@ -1,4 +1,4 @@
-# react-group-33
+# 24TH CORE WORLDS COALITION CONFERENCE
 
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [date-fns](https://date-fns.org/)
